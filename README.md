@@ -1,2 +1,2 @@
 # UOttawa-Thesis-Template
-Thesis LaTeX template for University of Ottawa
+LaTeX template for Thesis in University of Ottawa
