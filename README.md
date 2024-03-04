@@ -1,7 +1,7 @@
 # UOttawa-Thesis-Template
 LaTeX template for Thesis in University of Ottawa
 
-This LaTeX template is designed specifically for students at the University of Ottawa who are working on their thesis or dissertation. It provides a structured and professionally formatted framework for organizing and presenting academic research in accordance with the university's guidelines and formatting requirements.
+This LaTeX template is designed specifically for students at the University of Ottawa who are working on their thesis or dissertation. It provides a structured and professionally formatted framework for organizing and presenting academic research in accordance with the university's guidelines and formatting requirements. **You only need to download the .zip file and upload it to your LaTeX software(or Overleaf).**
 
 ### Key Features:
 
